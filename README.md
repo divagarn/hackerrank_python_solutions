@@ -1,6 +1,6 @@
 # hackerrank_python_solutions
 
-**list.py**
+# **list.py**
 
 --problem--
 
